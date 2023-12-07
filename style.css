@@ -5,11 +5,15 @@
 }
 
 #title{
-    color: aqua;
+    color: navy;
 }
 
 .ingredients{
     font-weight: 300;
     color: coral;
+}
+
+.background{
+    background: #e3f4ff;
 }
 
